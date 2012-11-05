@@ -6,6 +6,9 @@
 #idea {
   color: #C6563B;
 }
+#logo small {
+  text-transform: uppercase;
+}
 /* Sticky footer styles
 -------------------------------------------------- */
 html,
